@@ -9,6 +9,7 @@ namespace IfIf
             Console.WriteLine("숫자를 입력하세요: ");
 
             string input = Console.ReadLine();
+            Console.WriteLine(input);
             int number = Convert.ToInt32(input);
             Console.WriteLine(number);
             if( number > 0)
