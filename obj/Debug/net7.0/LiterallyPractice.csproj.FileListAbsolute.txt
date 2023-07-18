@@ -1,0 +1,15 @@
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\bin\Debug\net7.0\LiterallyPractice.exe
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\bin\Debug\net7.0\LiterallyPractice.deps.json
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\bin\Debug\net7.0\LiterallyPractice.runtimeconfig.json
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\bin\Debug\net7.0\LiterallyPractice.dll
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\bin\Debug\net7.0\LiterallyPractice.pdb
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.csproj.AssemblyReference.cache
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.AssemblyInfoInputs.cache
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.AssemblyInfo.cs
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.csproj.CoreCompileInputs.cache
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.dll
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\refint\LiterallyPractice.dll
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.pdb
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\LiterallyPractice.genruntimeconfig.cache
+C:\Users\메카2\Documents\GitHub\LiterallyPractice\obj\Debug\net7.0\ref\LiterallyPractice.dll
